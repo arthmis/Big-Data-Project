@@ -1,6 +1,4 @@
-#Lloyd Massiah
-#Gael Blanchard
-#Big Data Project 2
+#Big Data Project 
 #This program computes the term term relevance using a query term to calculate the relevance
 #of all other terms in descending order. Only terms starting with "gene_" and "disease_"
 #were considered for the term-term relevancy. Output is written to a file
